@@ -7,22 +7,12 @@ My experience spans backend development, ML model design, NLP systems, and end-t
 
 ## Core Skills
 
-| Programming & Backend | Machine Learning & AI |
-|----------------------|-----------------------|
-| Python, C, SQL       | Scikit-learn, XGBoost |
-| FastAPI, Flask       | TensorFlow, Keras     |
-| REST APIs            | NLP, Transformers     |
-| PostgreSQL, MongoDB  | LSTMs, GNN            |
-| Docker, AWS          | Time Series Analysis  |
-| Git, Linux           |                       |
-
-| Data & Distributed Systems | CS Fundamentals |
-|----------------------------|----------------|
-| Pandas, NumPy              | Data Structures & Algorithms |
-| Apache Spark, Hadoop       | Operating Systems            |
-| Redis                      | Computer Networks            |
-|                            | System Design                |
-|                            | Distributed Systems          |
+| Programming & Backend | Machine Learning & AI | Data & Distributed Systems | CS Fundamentals |
+|-----------------------|-----------------------|----------------------------|-----------------|
+| Python, C, SQL        | Scikit-learn, XGBoost | Pandas, NumPy              | Data Structures & Algorithms |
+| FastAPI, Flask        | TensorFlow, Keras     | Apache Spark, Hadoop       | Operating Systems |
+| REST APIs, Git        | NLP, Transformers    | Redis                      | Computer Networks |
+| PostgreSQL, MongoDB, Docker| LSTMs, GNN, Time Series Analysis | Linux | System Design, Distributed Systems |
 
 ---
 
